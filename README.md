@@ -10,7 +10,10 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) real estate website with
 - **Dashboard**: Comprehensive statistics and overview
 - **Full CRUD Operations**: Complete control over property listings
 
-### For Users
+### For 
+
+
+
 - **Property Browsing**: View all available properties
 - **Advanced Filtering**: Filter by type, price, location, and status
 - **Property Details**: Comprehensive property information with image galleries
@@ -126,7 +129,10 @@ Brocker/
 - `PUT /api/properties/:id` - Update property (admin only)
 - `DELETE /api/properties/:id` - Delete property (admin only)
 
-### Users
+### 
+
+
+
 - `GET /api/users` - Get all users (admin only)
 - `GET /api/users/profile` - Get user profile
 - `PUT /api/users/profile` - Update user profile
